@@ -178,6 +178,8 @@ That's what in the docs in summary.
 <div style="text-align: center"><table><tr>
 <td style="text-align: center">
 
+![](screenshots/Screenshot_20191001-154040.png)
+
 <img src="https://github.com/timndichu/mpesa-flutter-integration/screenshots/Screenshot_20191001-154040.png
 " width="250" height="470"/>
 </td>
