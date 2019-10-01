@@ -176,17 +176,22 @@ That's what in the docs in summary.
  ## Screenshots
 
 <div style="text-align: center"><table><tr>
+
+
 <td style="text-align: center">
 
-![](screenshots/Screenshot_20191001-154040.png)
-
-![](screenshots/Screenshot_20191001-154045.png)
-
-![](screenshots/Screenshot_20191001-154051.png)
-
-
+<img src="screenshots/Screenshot_20191001-154040.png" width="250" height="470"/>
 </td>
 
+<td style="text-align: center">
+
+<img src="screenshots/Screenshot_20191001-154045.png" width="250" height="470"/>
+</td>
+
+<td style="text-align: center">
+
+<img src="screenshots/Screenshot_20191001-154051.png" width="250" height="470"/>
+</td>
 
 </tr></table></div> 
 
