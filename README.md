@@ -1,10 +1,8 @@
 # MPESA WITH FLUTTER
 
-A new Flutter project.
+This project entails integrating your flutter mobile apps with M-PESA.
 
 ## Getting Started
-
-This project entails integrating your flutter mobile apps with M-PESA.
 
 A few resources to get you started if this is your first Flutter project:
 
