@@ -180,21 +180,14 @@ That's what in the docs in summary.
 
 ![](screenshots/Screenshot_20191001-154040.png)
 
-<img src="https://github.com/timndichu/mpesa-flutter-integration/screenshots/Screenshot_20191001-154040.png
-" width="250" height="470"/>
+![](screenshots/Screenshot_20191001-154045.png)
+
+![](screenshots/Screenshot_20191001-154051.png)
+
+
 </td>
 
-<td style="text-align: center">
 
-<img src="https://github.com/timndichu/mpesa-flutter-integration/screenshots/Screenshot_20191001-154045.png
-" width="250" height="470"/>
-</td>
-
-<td style="text-align: center">
-
-<img src="https://github.com/timndichu/mpesa-flutter-integration/screenshots/Screenshot_20191001-154051.png
-" width="250" height="470"/>
-</td>
 </tr></table></div> 
 
 
