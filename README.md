@@ -1,10 +1,10 @@
-# design
+# MPESA WITH FLUTTER
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project entails integrating your flutter mobile apps with M-PESA.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-## Getting Started
+## Prerequisites:
 
 ### Credentials
 
@@ -199,8 +199,8 @@ That's what in the docs in summary.
 
 
 
-## Reference
-Pull Requests are welcomed to this project on [GitHub](https://github.com/keronei/mpesa_flutter_plugin/).
+## Contributing
+Pull Requests are welcomed to this project on [GitHub](https://github.com/timndichu/mpesa-flutter-integration/).
 
 
 
